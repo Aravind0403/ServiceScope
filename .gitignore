@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+*.log
+
+# Editor
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Ollama model caches (optional, if saving)
+ollama_models/
+
+# Data
+/data/*.jsonl

@@ -1,0 +1,16 @@
+[
+  {
+    "method": "get",
+    "url": "http://customer-service.internal/api/v1/customers",
+    "line": 4,
+    "file": "service_a/app.py",
+    "service": "service_a"
+  },
+  {
+    "method": "post",
+    "url": "http://localhost:5001/api/pay",
+    "line": 8,
+    "file": "service_a/app.py",
+    "service": "service_a"
+  }
+]

@@ -1,0 +1,2 @@
+PAYMENT_API_URL: http://payment-gateway.internal/api/pay
+CUSTOMER_API_URL: http://customer-service.internal/api/v1/customers
