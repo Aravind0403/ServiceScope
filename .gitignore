@@ -16,5 +16,8 @@ env/
 # Ollama model caches (optional, if saving)
 ollama_models/
 
-# Data
+# Data (generated outputs)
 /data/*.jsonl
+/data/*.png
+/data/*.csv
+/data/*.json
