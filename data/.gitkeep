@@ -1,0 +1,3 @@
+# This file ensures the data directory is tracked in git
+# All generated files (*.jsonl, *.png, *.csv, *.json) are ignored
+# See .gitignore for details
